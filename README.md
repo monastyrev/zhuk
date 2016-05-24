@@ -7,3 +7,5 @@ idler	      - 3 шт
 motorMount    - 12 шт
 
 kinematicMount  - 3 шт
+
+ABS, оболочка 1мм, заполнение 20%
