@@ -1,13 +1,9 @@
-carriage.stl    - 3шт
+carriage.stl  - 3шт
 
-effector.stl    - 1 шт
+idlerMount    - 3 шт
 
-effectorHelper  - 1 шт
+idler	      - 3 шт
 
-endIdler        - 3 шт
+motorMount    - 12 шт
 
-endMotor        - 3 шт
-
-extruder        - 1 шт
-
-extruderArm     - 1 шт
+kinematicMount  - 3 шт
